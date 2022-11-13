@@ -1,0 +1,39 @@
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, p, ul {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: brown;
+}
+
+ul.favorites {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: palevioletred;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.description {
+    font-size: 20px;
+    color: rosybrown;
+    font-weight: bold;
+}
